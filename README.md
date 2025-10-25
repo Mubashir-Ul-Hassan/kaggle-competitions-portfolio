@@ -40,4 +40,4 @@ Each folder contains:
 ## 👤 Author
 **Mubashir Ul Hassan**  
 🎓 Data Science Undergraduate | 🧠 Data Scientist | ☁️ Google Cloud Learner  
-🔗 [Kaggle Profile](https://www.kaggle.com/mubashirulhassan00) | [LinkedIn](https://linkedin.com/in/mubashir-ul-hasasn)
+🔗 [Kaggle Profile](https://www.kaggle.com/mubashirulhassan00) | [LinkedIn](https://linkedin.com/in/mubashir-ul-hassan)
